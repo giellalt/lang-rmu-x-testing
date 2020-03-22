@@ -1,0 +1,9 @@
+!! Noun inflection
+!  ---------------
+!! The Tavringer Romani language nouns inflect in cases.
+
+LEXICON n1
++N+Sg: # ;
+
+! vim: set ft=xfst-lexc:
+

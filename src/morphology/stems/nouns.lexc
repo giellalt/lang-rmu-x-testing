@@ -1,0 +1,10 @@
+!! Nouns
+!  -----
+!! Nouns in the Tavringer Romani language are things.
+
+LEXICON Nouns
+racklepha n1 ;
+hortepha n1 ;
+kontakti n1 ;
+
+! vim: set ft=xfst-lexc:

@@ -1,0 +1,9 @@
+!! Verb inflection
+!  ---------------
+!! The Tavringer Romani language verbs inflect in persons.
+
+LEXICON v1
++V+Inf: # ;
+
+! vim: set ft=xfst-lexc:
+
