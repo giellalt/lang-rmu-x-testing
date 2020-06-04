@@ -1,0 +1,9 @@
+name = "Tavringer Romani"
+version = "0.1.0"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.rmu"
+
+[windows]
+system_product_code = "8B865450-2219-4083-BA0A-2DE1C47A966D"
+msoffice_product_code = "1CE95BC5-DCFC-4649-803E-C67AD4121937"
