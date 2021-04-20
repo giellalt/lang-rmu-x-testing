@@ -10,8 +10,8 @@ authors named in the AUTHORS file are available to grant other licencing
 choices.
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-rmu)](https://github.com/giellalt/lang-rmu/issues)
-[![Build Status](https://github.com/giellalt/lang-rmu/workflows/Build%20Speller%20Archives%20and%20Bundles/badge.svg)](https://github.com/giellalt/lang-rmu/actions)
-[![License](https://img.shields.io/github/license/giellalt/template-lang-rmu)](https://raw.githubusercontent.com/giellalt/lang-rmu/develop/LICENSE)
+[![Build Status](https://github.com/giellalt/lang-rmu/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-rmu/actions)
+[![License](https://img.shields.io/github/license/giellalt/lang-rmu)](https://raw.githubusercontent.com/giellalt/lang-rmu/develop/LICENSE)
 
 Install proofing tools and [keyboards](https://github.com/giellalt/keyboard-rmu)
 for the Tavringer Romani language by using the [Divvun Installer](http://divvun.no)
