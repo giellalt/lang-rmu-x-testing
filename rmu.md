@@ -1,29 +1,27 @@
-Noun inflection
-The Tavringer Romani language nouns inflect in cases.
+Nouns
+Nouns in the Tavringer Romani language are things.
+
+
+Numerals
+Numerals in the Tavringer Romani language are numbers.
+
+
+Verbs
+Verbs in the Tavringer Romani language are actions.
 
 
 
-Proper noun inflection
-The Tavringer Romani language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
+Prefixes
+Prefixes in the Tavringer Romani language are bound to beginning of other words.
 
 
 
-
-# Symbol affixes
-
-
+Adjectives
+Adjectives in the Tavringer Romani language describe things.
 
 
-
-Adjective inflection
-The Tavringer Romani language adjectives compare.
-
-
-
-Verb inflection
-The Tavringer Romani language verbs inflect in persons.
-
+Pronouns
+Pronouns in the Tavringer Romani language are references to things.
 
 
 =================================== !
@@ -49,6 +47,34 @@ The Tavringer Romani morphophonological/twolc rules file !
 * examples:*
 
 * examples:*
+
+# Symbol affixes
+
+
+
+
+
+Noun inflection
+The Tavringer Romani language nouns inflect in cases.
+
+
+
+Proper noun inflection
+The Tavringer Romani language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+Verb inflection
+The Tavringer Romani language verbs inflect in persons.
+
+
+
+Adjective inflection
+The Tavringer Romani language adjectives compare.
+
+
+
 
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Tavringer Romani LANGUAGE.
 
@@ -129,30 +155,20 @@ The word forms in Romany language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
 
-Nouns
-Nouns in the Tavringer Romani language are things.
-
-
-Prefixes
-Prefixes in the Tavringer Romani language are bound to beginning of other words.
 
 
 
-Pronouns
-Pronouns in the Tavringer Romani language are references to things.
+We describe here how abbreviations are in Tavringer Romani are read out, e.g.
+for text-to-speech systems.
 
+For example:
 
-Adjectives
-Adjectives in the Tavringer Romani language describe things.
-
-
-Verbs
-Verbs in the Tavringer Romani language are actions.
-
-
-
-Numerals
-Numerals in the Tavringer Romani language are numbers.
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
 
 
 
@@ -208,20 +224,4 @@ Numerals in the Tavringer Romani language are numbers.
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
-
-
-
-
-We describe here how abbreviations are in Tavringer Romani are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
 
