@@ -605,30 +605,32 @@ These were the set types.
 
 
 
-Nouns
-Nouns in the Tavringer Romani language are things.
-
-
-Numerals
-Numerals in the Tavringer Romani language are numbers.
-
-
-Verbs
-Verbs in the Tavringer Romani language are actions.
+Verb inflection
+The Tavringer Romani language verbs inflect in persons.
 
 
 
-Prefixes
-Prefixes in the Tavringer Romani language are bound to beginning of other words.
+Proper noun inflection
+The Tavringer Romani language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
 
 
 
-Adjectives
-Adjectives in the Tavringer Romani language describe things.
+Adjective inflection
+The Tavringer Romani language adjectives compare.
 
 
-Pronouns
-Pronouns in the Tavringer Romani language are references to things.
+
+Noun inflection
+The Tavringer Romani language nouns inflect in cases.
+
+
+
+
+# Symbol affixes
+
+
+
 
 
 =================================== !
@@ -654,32 +656,30 @@ The Tavringer Romani morphophonological/twolc rules file !
 * examples:*
 
 * examples:*
-
-# Symbol affixes
-
-
+Verbs
+Verbs in the Tavringer Romani language are actions.
 
 
 
-Noun inflection
-The Tavringer Romani language nouns inflect in cases.
+Pronouns
+Pronouns in the Tavringer Romani language are references to things.
+
+
+Numerals
+Numerals in the Tavringer Romani language are numbers.
+
+
+Adjectives
+Adjectives in the Tavringer Romani language describe things.
+
+
+Prefixes
+Prefixes in the Tavringer Romani language are bound to beginning of other words.
 
 
 
-Proper noun inflection
-The Tavringer Romani language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
-
-
-
-Verb inflection
-The Tavringer Romani language verbs inflect in persons.
-
-
-
-Adjective inflection
-The Tavringer Romani language adjectives compare.
-
+Nouns
+Nouns in the Tavringer Romani language are things.
 
 
 
@@ -765,22 +765,6 @@ word classes, or optionally from prefixes:
 
 
 
-We describe here how abbreviations are in Tavringer Romani are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
-
-
-
-
 
 
 
@@ -831,6 +815,22 @@ For example:
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
+
+
+
+
+We describe here how abbreviations are in Tavringer Romani are read out, e.g.
+for text-to-speech systems.
+
+For example:
+
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
+
 
 
       [ L A N G U A G E ]  G R A M M A R   C H E C K E R
