@@ -5,7 +5,9 @@
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-rmu)](https://github.com/giellalt/lang-rmu/issues)
 [![Build status](https://github.com/giellalt/lang-rmu/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-rmu/actions)
 
-This page documents the work on the **Tavringer Romani language model**. 
+There are several Romani languages, and it is at the moment not clear how many standardised Romani languages there are in the Nordic countries. [Here is an overview](../../lang-rmy/docs/romani-languages).
+
+This page will document future work on the **Tavringer Romani language model**. 
 
 # Project documentation
 
