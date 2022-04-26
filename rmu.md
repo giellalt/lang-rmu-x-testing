@@ -220,16 +220,11 @@ The Tavringer Romani language verbs inflect in persons.
 The Tavringer Romani morphophonological/twolc rules file !
 =================================== !
 
-* *primus%>s*
-* *primus00*
+* *bakkro>et*
+* *bakkro>0t*
 
-* examples:*
-
-* examples:*
-
-* examples:*
-
-* examples:*
+* *anger>en*
+* *anger>0n*
 
 * * *
 
