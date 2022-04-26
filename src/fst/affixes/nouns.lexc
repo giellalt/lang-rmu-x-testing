@@ -2,8 +2,21 @@
 !  ---------------
 !! The Tavringer Romani language nouns inflect in cases.
 
-LEXICON n1
-+N+Sg: # ;
+LEXICON x
+u ; ! vet inte
+
+LEXICON u
++N+Sg+Indef: # ;
++N+Sg+Def:%>en # ;
++N+Pl+Indef:%>ar # ;
++N+Pl+Def:%>ena # ;
+
+LEXICON n ! xxx n-leksikon är en hypotes.
++N+Sg+Indef: # ;
++N+Sg+Def:%>et # ;
++N+Pl+Indef:r # ;
++N+Pl+Def:%>en # ;
+
 
 ! vim: set ft=xfst-lexc:
 

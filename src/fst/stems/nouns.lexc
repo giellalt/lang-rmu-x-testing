@@ -3,8 +3,39 @@
 !! Nouns in the Tavringer Romani language are things.
 
 LEXICON Nouns
-racklepha n1 ;
-hortepha n1 ;
-kontakti n1 ;
+dejj u "mamma" ;
+stanasjare u "cykel" ;
+anger u "kål" ; ! twol e:0 <=> Vow Cns:+ e r %> _ n ;
+balo u "gris" ;
+bannika u "pannkaka" ;
+
+angersjero n "kåkhuvud" ;
+aro n "ägg" ;
+babb n "skägg" ;
+bakkro n "får, lamm" ;
+bal n "hår" ;
+ballvass n "fläsk, skinka" ;
+bast n "år" ;
+
+racklepha x ;
+hortepha x ;
+kontakti x ;
+
+te cs "att" ;
+
+appre pr "upp" ;
+asjter pr "av, bakom, efter" ;
+famm pr "från" ;
+for pr "för" ;
+an pr "i" ;
+ando pr "i" ;
+asjter pr "av, efter, bakom" ;
+
+uppre adv "uppe" ;
+bortri adv "borta" ;
+kere adv "hemma" ;
+ninna adv "här" ;
+ninga adv "hit" ;
+
 
 ! vim: set ft=xfst-lexc:
