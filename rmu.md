@@ -322,6 +322,22 @@ Adjectives in the Tavringer Romani language describe things.
 
 ---
 
+# Tavringer adverbs
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/adverbs.lexc](https://github.com/giellalt/lang-rmu/blob/main/src/fst/stems/adverbs.lexc)</small>
+
+---
+
+# Tavringer conjunctions
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/conjunctions.lexc](https://github.com/giellalt/lang-rmu/blob/main/src/fst/stems/conjunctions.lexc)</small>
+
+---
+
 Nouns
 Nouns in the Tavringer Romani language are things.
 
@@ -349,12 +365,28 @@ Prefixes in the Tavringer Romani language are bound to beginning of other words.
 
 ---
 
+# Tavringer prepositions
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/prepositions.lexc](https://github.com/giellalt/lang-rmu/blob/main/src/fst/stems/prepositions.lexc)</small>
+
+---
+
 Pronouns
 Pronouns in the Tavringer Romani language are references to things.
 
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/stems/pronouns.lexc](https://github.com/giellalt/lang-rmu/blob/main/src/fst/stems/pronouns.lexc)</small>
+
+---
+
+# Tavringer subjunctions
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/subjunctions.lexc](https://github.com/giellalt/lang-rmu/blob/main/src/fst/stems/subjunctions.lexc)</small>
 
 ---
 
