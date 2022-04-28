@@ -2,10 +2,10 @@
 !  --------------------
 !! The Tavringer Romani language adjectives compare.
 
-LEXICON Comparisons
-+A+pos:0        #   ;
-+A+cmp:er       #   ;
-+A+sup:est      #   ;
+LEXICON a
++A+Pos+Utr:%>o # ;
++A+Comp:%>are       #   ;
++A+Superl:%>ast      #   ;
 
 ! vim: set ft=xfst-lexc:
 
