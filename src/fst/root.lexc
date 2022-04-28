@@ -147,10 +147,14 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 LEXICON Root
 !! The word forms in Romany language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
-0   Nouns       ;
-0   Verbs       ;
-0   Adjectives  ;
-0   Pronouns    ;
+   Nouns       ;
+   Verbs       ;
+Adverbs ;
+   Adjectives  ;
+Prepositions ;
+Conjunctions ;
+Subjunctions ;
+   Pronouns    ;
 0   Numerals    ;
 0   Prefixes    ;
     Punctuation ;
