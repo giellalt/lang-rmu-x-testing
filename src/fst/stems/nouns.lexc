@@ -16,26 +16,39 @@ bakkro n "får, lamm" ;
 bal n "hår" ;
 ballvass n "fläsk, skinka" ;
 bast n "år" ;
+bellka u "ekorre";
+belsing u  "mage" ;
+belven u  "kväll" ;
+bissa u  "soffa, säng" ;
+biståkk u  "stövel" ;
+bistokk u  "stövel" ;
+bolvina u  "kudde" ;
+bommali u  "lampa" ;
+brialt u  "gröt" ;
+brol u  "potatis" ;
+budd u  "dörr" ; ! buda?
+bula u  "bak, rumpa" ;
+bullo u  "björn" ;
+buro u  "bonde" ;
+buroker u  "bondegård" ;
+båbb u  "böna" ;
+bobb u  "böna" ;
+båjaskiro u  "istadig häst" ;
+bölo u  "tjur, oxe" ;
+chib u  "tunga" ; 
+
+dad u "far, pappa" ;
+dadeskedad u "farfar" ;
+dadeskedejj u "farmor" ;
+dadeskepral u "farbror" ;
+dado u "farbror, morbror" ;
+dakkri u "mor" ;
+dakkridad u "morfar" ;
 
 racklepha x ;
 hortepha x ;
 kontakti x ;
 
-te cs "att" ;
-
-appre pr "upp" ;
-asjter pr "av, bakom, efter" ;
-famm pr "från" ;
-for pr "för" ;
-an pr "i" ;
-ando pr "i" ;
-asjter pr "av, efter, bakom" ;
-
-uppre adv "uppe" ;
-bortri adv "borta" ;
-kere adv "hemma" ;
-ninna adv "här" ;
-ninga adv "hit" ;
 
 
-! vim: set ft=xfst-lexc:
+

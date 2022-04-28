@@ -7,6 +7,14 @@ assjar:assja v "vara" ;
 hunar:hunka v "skola" ;
 tradar:trada v "åka" ;
 agrar:agra v "börja" ;
-
+avar:ava v "komma" ;
+bekknar:bekkna v "sälja" ;
+bessjar:bessja v "sitta" ;
+bliddrar:bliddra v "bli" ;
+boddrar:boddra v "bo" ;
+botar:bota v "beta" ;
+båtar:båta v "beta" ;
+brasjar:brasja v "frysa" ;
+brissjar:brissja v "regna" ;
 
 ! vim: set ft=xfst-lexc:

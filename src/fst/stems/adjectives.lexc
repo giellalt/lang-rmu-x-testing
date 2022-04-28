@@ -3,9 +3,10 @@
 !! Adjectives in the Tavringer Romani language describe things.
 
 LEXICON Adjectives
-baro a "stor" ;
-tikkno a "liten" ;
-buno a "modig" ;
+baro:bar a "stor" ;
+tikkno:tikkn a "liten" ;
+buno:bun a "modig" ;
+lissjano:lissjan a "lycklig" ;
 
 
 ! vim: set ft=xfst-lexc:
