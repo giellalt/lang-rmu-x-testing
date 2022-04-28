@@ -1,0 +1,11 @@
+!! # Tavringer subjunctions
+
+LEXICON im
++IM: # ;
+
+LEXICON cs
++CS: # ;
+
+LEXICON Subjunctions
+te im ;
+te cs "att" ;
