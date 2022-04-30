@@ -1,0 +1,21 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+  Noun - : # dejj C-stem
+    dejj+N+Utr+Sg+Indef: dejj
+    dejj+N+Utr+Sg+Def: dejjen
+    dejj+N+Utr+Pl+Indef: dejjer
+    dejj+N+Utr+Pl+Def: dejjena
+
+  Noun - : # balo V-stem ... correct???
+    balo+N+Utr+Sg+Indef: balo
+    balo+N+Utr+Sg+Def: baloen
+    balo+N+Utr+Pl+Indef: baloar
+    balo+N+Utr+Pl+Def: baloena
