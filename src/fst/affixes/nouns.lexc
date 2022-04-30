@@ -6,16 +6,16 @@ LEXICON x
 u ; ! vet inte
 
 LEXICON u
-+N+Sg+Indef: # ;
-+N+Sg+Def:%>en # ;
-+N+Pl+Indef:%>ar # ;
-+N+Pl+Def:%>ena # ;
++N+Utr+Sg+Indef: # ;
++N+Utr+Sg+Def:%>en # ;
++N+Utr+Pl+Indef:%>ar # ;
++N+Utr+Pl+Def:%>ena # ;
 
 LEXICON n ! xxx n-leksikon är en hypotes.
-+N+Sg+Indef: # ;
-+N+Sg+Def:%>et # ;
-+N+Pl+Indef:r # ;
-+N+Pl+Def:%>en # ;
++N+Neu+Sg+Indef: # ;
++N+Neu+Sg+Def:%>et # ;
++N+Neu+Pl+Indef:r # ;
++N+Neu+Pl+Def:%>en # ;
 
 
 ! vim: set ft=xfst-lexc:
