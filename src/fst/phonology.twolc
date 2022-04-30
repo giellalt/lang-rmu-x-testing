@@ -20,7 +20,7 @@ Sets
 Rules
 
 "Delete e-initial suffix in certain stems"
-e:0 <=>           Vow %> _ Cns ; !  vowel stems
+e:0 <=>           Vow %> _ t ; !  vowel stems
         Vow Cns:+ e r %> _ n ;
 	
 !!€ bakkro>et
