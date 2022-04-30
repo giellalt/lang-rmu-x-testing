@@ -16,9 +16,16 @@
 ! !!            !!!Tavringer Romani morphological analyser                      !
 ! ========================================================================== !
 !! INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Tavringer Romani LANGUAGE.
- 
+
 
 Multichar_Symbols  !!≈ # Definitions for @CODE@
+
++Com
++Ess
++IM
++Ill
++Ine
++Pos
 
 !! ## Analysis symbols
 !  ----------------
@@ -29,15 +36,17 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 !! The parts-of-speech are:
  +N +A +Adv +V                                 !!≈
  +Pron +CS +CC +Adp +Po +Pr +Interj +Pcle +Num !!≈
- +Msc
- +Fem
+ +Utr
+ +Neu
 
 !! The parts of speech are further split up into:
  +Prop +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
 
+ +Def +Indef
+
 !! The Usage extents are marked using following tags:
- +Err/Orth   
- +Use/-Spell 
+ +Err/Orth
+ +Use/-Spell
 
 !! The nominals are inflected in the following Case and Number
  +Sg
@@ -57,7 +66,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +Comp +Superl
 !! Numerals are classified under:
  +Attr +Card
- +Ord 
+ +Ord
 !! Verb moods are:
  +Ind +Prs +Prt +Pot +Cond +Imprt
 !! Verb personal forms are:
@@ -66,7 +75,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
 
 ! Abbreviated words are classified with:
- +ABBR +ACR 
+ +ABBR +ACR
 +Symbol !!≈ * @CODE@ = independent symbols in the text stream, like £, €, ©
 !! Special symbols are classified with:
 +CLB +PUNCT +LEFT +RIGHT
@@ -82,20 +91,20 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 
 
 !! Semantics are classified with
- +Mal +Fem +Sur 
- +Plc 
+ +Mal +Fem +Sur
+ +Plc
  +Org
  +Obj
  +Ani
  +Hum
  +Plant
  +Group
- +Time 
+ +Time
  +Txt
  +Route
- +Measr 
+ +Measr
  +Wthr
- +Build 
+ +Build
  +Edu
  +Veh
  +Clth
@@ -123,7 +132,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  @P.NeedNoun.ON@    !!≈ |  @CODE@ | (Dis)allow compounds with verbs unless nominalised
  @D.NeedNoun.ON@    !!≈ |  @CODE@ | (Dis)allow compounds with verbs unless nominalised
  @C.NeedNoun@       !!≈ |  @CODE@ | (Dis)allow compounds with verbs unless nominalised
-!! 
+!!
 !! For languages that allow compounding, the following flag diacritics are needed
 !! to control position-based compounding restrictions for nominals. Their use is
 !! handled automatically if combined with +CmpN/xxx tags. If not used, they will
@@ -136,7 +145,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  @U.CmpNone.FALSE@ !!≈ |  @CODE@ | Combines with the prev tag to prohibit compounding
  @P.CmpOnly.TRUE@  !!≈ |  @CODE@ | Sets a flag to indicate that the word has passed R
  @D.CmpOnly.FALSE@ !!≈ |  @CODE@ | Disallow words coming directly from root.
-!! 
+!!
 !! Use the following flag diacritics to control downcasing of derived proper
 !! nouns (e.g. Finnish Pariisi -> pariisilainen). See e.g. North Sámi for how to use
 !! these flags. There exists a ready-made regex that will do the actual down-casing
