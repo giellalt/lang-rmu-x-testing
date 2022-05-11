@@ -3,14 +3,8 @@
 !! The Tavringer Romani language proper nouns inflect in the same cases as regular
 !! nouns, but with a colon (':') as separator.
 
-LEXICON ProperNounCases
-+N+Prop:%:   #  ;
-+N+Prop:%:   #  ;
-+N+Prop:%:   #  ;
-+N+Prop:%:   #  ;
-+N+Prop:%:   #  ;
-+N+Prop:%:   #  ;
-        -    Nouns  ;
+LEXICON p
++N+Prop+Utr+Sg+Indef:   #  ;
 
 ! vim: set ft=xfst-lexc:
 

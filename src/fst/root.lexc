@@ -164,12 +164,13 @@ Prepositions ;
 Conjunctions ;
 Subjunctions ;
    Pronouns    ;
+   Propernouns    ;
 0   Numerals    ;
 0   Prefixes    ;
     Punctuation ;
     Symbols     ;
 
-LEXICON K
-# ;
+!LEXICON K
+!# ;
 
 ! vim: set ft=xfst-lexc:
