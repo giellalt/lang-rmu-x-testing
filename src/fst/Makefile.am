@@ -39,7 +39,6 @@ GT_LEXC_SRCS_L1_L2=\
 			 stems/numerals.lexc      \
 			 stems/prefixes.lexc      \
 			 stems/pronouns.lexc      \
-			 stems/rmu-propernouns.lexc      \
 			 stems/verbs.lexc
 
 # If you are building an error-detecting L2 analyser, specify the lexc files
@@ -58,8 +57,9 @@ GT_LEXC_L2_SRCS=\
 			$(L2)
 
 # Set this to the names of all generated lexc files, if any
-GENERATED_LEXC_SRCS=generated_files/punctuation.lexc \
-                    generated_files/symbols.lexc
+GENERATED_LEXC_SRCS=generated_files/smi-$(GTLANG)-propernouns.lexc   \
+			 generated_files/punctuation.lexc \
+			 generated_files/symbols.lexc
 
 # Set this to the names of all source xml files, if any
 GT_XML_SRCS=
@@ -71,7 +71,8 @@ GT_LOCAL_SRCS=
 GT_LOCAL_XFSCRIPT_SRCS=
 
 # Define here any additional sources just included in the distro:
-GT_DISTRO_SRCS=
+GT_DISTRO_SRCS=$(top_srcdir)/src/scripts/smi-$(GTLANG)-conversion.pl \
+			 $(srcdir)/stems/$(GTLANG)-propernouns.lexc
 
 ### BEGIN: Local processing: ###
 
@@ -82,6 +83,15 @@ GT_DISTRO_SRCS=
 ### gle/ for an example of how this is used.
 
 GIELLA_LOCAL_TARGETS=
+
+generated_files/smi-$(GTLANG)-propernouns.lexc: \
+		$(GIELLA_SHARED)/smi/src/fst/stems/smi-propernouns.lexc \
+		$(srcdir)/stems/$(GTLANG)-propernouns.lexc
+	$(AM_V_at)$(MKDIR_P) generated_files
+	$(AM_V_GEN)cp -f $(srcdir)/stems/$(GTLANG)-propernouns.lexc $@
+	$(AM_V_at)echo "! <--- Dump from SMI starting here: -->" >> $@ 
+	$(AM_V_GEN)$(top_srcdir)/src/scripts/smi-$(GTLANG)-conversion.pl $< >> $@
+
 
 ### END: Local processing: ###
 
