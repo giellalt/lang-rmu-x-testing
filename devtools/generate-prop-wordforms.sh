@@ -19,13 +19,7 @@ fi
 
 ######### USER Variables - change these to your liking: #########
 # Codes for the word forms to be generated - list as many or few as needed:
-morf_codes="+N+Prop+Sg+Nom \
-            +N+Prop+Sg+Gen \
-            +N+Prop+Sg+Ill \
-            +N+Prop+Sg+Com \
-            +N+Prop+Pl+Nom \
-            +N+Prop+Pl+Com \
-            +N+Prop+Ess"
+morf_codes="+N+Prop+Utr+Sg+Indef"
 
 # Lexicon source file for lexicons and lemmas:
 source_file=src/fst/stems/rmu-propernouns.lexc
