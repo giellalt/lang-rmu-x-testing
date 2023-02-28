@@ -10,6 +10,8 @@ language are presented in this system in terms of the following symbols.
 
 The parts-of-speech are:
 
+The genders are:
+
 The parts of speech are further split up into:
 
 The Usage extents are marked using following tags:
