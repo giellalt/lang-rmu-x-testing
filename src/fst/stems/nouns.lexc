@@ -8,8 +8,8 @@ stanasjare u "cykel" ;
 anger u "kål" ; ! twol e:0 <=> Vow Cns:+ e r %> _ n ;
 balo u "gris" ;
 bannika u "pannkaka" ;
-
-angersjero n "kåkhuvud" ;
+varot n "mjöl" ;
+angersjero n "kålhuvud" ;
 aro n "ägg" ;
 babb n "skägg" ;
 bakkro n "får, lamm" ;
@@ -46,8 +46,9 @@ dakkri u "mor" ;
 dakkridad u "morfar" ;
 
 racklepha x ;
-hortepha x ;
+hortepha n "sanning";
 kontakti x ;
+pilla u "mössa" ;
 
 
 
