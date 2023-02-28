@@ -3,21 +3,12 @@
 !! Nouns in the Tavringer Romani language are things.
 
 LEXICON Nouns
-dejj u "mamma" ;
-nukko n "barn" ;
-piro u "ben" ;
-stanasjare u "cykel" ;
+dejj u "mamma" ; ! dejjen, dejjer, dejjerna
+stanasjare u "cykel" ; ! stanasjaren, (stanasjar, stanasjarna?)
+starrnashare x "bil" ; ! starrnasharen, starrnashar, starrnasharna
 anger u "kål" ; ! twol e:0 <=> Vow Cns:+ e r %> _ n ;
 balo u "gris" ;
 bannika u "pannkaka" ;
-varot n "mjöl" ;
-angersjero n "kålhuvud" ;
-aro n "ägg" ;
-babb n "skägg" ;
-bakkro n "får, lamm" ;
-bal n "hår" ;
-ballvass n "fläsk, skinka" ;
-bast n "år" ;
 bellka u "ekorre";
 belsing u  "mage" ;
 belven u  "kväll" ;
@@ -25,7 +16,7 @@ bissa u  "soffa, säng" ;
 biståkk u  "stövel" ;
 bistokk u  "stövel" ;
 bolvina u  "kudde" ;
-bommali u  "lampa" ;
+bommali u  "lampa" ; ! bommalin, bommalis, bommalis
 brialt u  "gröt" ;
 brol u  "potatis" ;
 budd u  "dörr" ; ! buda?
@@ -44,14 +35,21 @@ dadeskedad u "farfar" ;
 dadeskedejj u "farmor" ;
 dadeskepral u "farbror" ;
 dado u "farbror, morbror" ;
-dakkri u "mor" ;
+dakkri i "mor" ;
 dakkridad u "morfar" ;
 
+angersjero n "kålhuvud" ;
+aro n "ägg" ;
+babb n "skägg" ;
+bakkro n "får, lamm" ;
+bal n "hår" ;
+ballvass n "fläsk, skinka" ;
+bast n "år" ;
+
 racklepha x ;
-hortepha n "sanning";
+hortepha x "sanning";
 kontakti x ;
-pilla u "mössa" ;
-
-
-
-
+pilla x "mössa" ;
+nukko x "barn" ;
+piro x "ben" ;
+varot x "mjöl" ;

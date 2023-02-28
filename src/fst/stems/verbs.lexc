@@ -3,20 +3,50 @@
 !! Verbs in the Tavringer Romani language are actions.
 
 LEXICON Verbs
-assjar:assja v "vara" ;
-hunkar:hunka v "skola" ;
-tradar:trada v "åka" ;
-agrar:agra v "börja" ;
-avar:ava v "komma" ;
-bekknar:bekkna v "sälja" ;
-bessjar:bessja v "sitta" ;
-bliddrar:bliddra v "bli" ;
-boddrar:boddra v "bo" ;
-botar:bota v "beta" ;
-båtar:båta v "beta" ;
-brasjar:brasja v "frysa" ;
-brissjar:brissja v "regna" ;
-fakkrar:fakkra v "arbetar" ;
-prejsar:prejas v "betalar" ;
-
+assjar:assja v1 "vara" ;
+hunkar:hunka v1 "skola" ;
+tradar:trada v1 "åka" ;
+agrar:agra v1 "börja" ;
+avar:ava v1 "komma" ;
+bekknar:bekkna v1 "sälja" ;
+bessjar:bessja v1 "sitta" ;
+bliddrar:bliddra v1 "bli" ;
+boddrar:boddra v1 "bo" ;
+botar:bota v1 "beta" ;
+båtar:båta v1 "beta" ;
+brasjar:brasja v1 "frysa" ;
+brissjar:brissja v1 "regna" ;
 ! vim: set ft=xfst-lexc:
+
+bessjar:bessja v1 "sitta" ;
+bjussar:bjussa v1 "heta" ;
+buddrar:buddra v1 "bo, leva";
+dikkrar:dikkra v1 "tycka om, älska" ;
+dokkar:dokka v1 "ge" ;
+drabblar:drabbla v1 "läsa" ;
+drabbrar:drabbra v1 "läsa" ;
+dänkar:dänka v1 "tänka" ;
+frekkar:frekka v1 "fråga" ;
+puttjar:puttja v1 "fråga" ;
+gijar:gija v1 "sjunga" ;
+golar:gola v1 "skrika" ;
+honkar:honka v1 "vara" ;
+jar:ja v2 "gå, promenera" ;
+jinnar:jinna v1 "räkna" ;
+kammar:kamma v1 "ha" ;
+kar:ka v2 "äta" ;
+kattjar:kattja v1 "bränna, elda" ;
+kerar:kera v1 "göra" ;
+kirrar:kirra v1 "göra" ;
+ler:le v2 "ta, gripa, få" ; ! slutar på e? hittar böjningar: le, ler, les, let, lett(en gång) i freecorpus
+lunsar:lunsa v1 "höra" ;
+mattjar:mattja v1 "fiska" ;
+mengar:menga v1 "arbeta, jobba" ;
+mollar:molla v1 "kosta" ;
+mular:mula v1 "dö" ;
+nassjar:nassja v1 "springa" ;
+pandrar:pandra v1 "stänga, låsa" ;
+pennar:penna v1 "säga" ;
+
+
+! hunkar te "kommer att"

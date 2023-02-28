@@ -2,7 +2,11 @@
 !  ---------------
 !! The Tavringer Romani language verbs inflect in persons.
 
-LEXICON v
+LEXICON v1
++V+Prs:%>r # ;
++V+Prt:%de # ;
+
+LEXICON v2 ! sa, enstavig och med betoning på sista stavelsen, annorlunda supinumform
 +V+Prs:%>r # ;
 +V+Prt:%de # ;
 

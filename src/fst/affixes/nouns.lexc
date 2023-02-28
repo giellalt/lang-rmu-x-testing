@@ -17,6 +17,13 @@ LEXICON n ! xxx n-leksikon är en hypotes.
 +N+Neu+Pl+Indef:r # ;
 +N+Neu+Pl+Def:%>en # ;
 
+LEXICON i ! feminine, ending in -i, dakkri (mother)
++N+Fem+Sg+Indef: # ;
++N+Fem+Sg+Indef:%>a # ;
++N+Fem+Sg+Def:%>n # ;
++N+Fem+Pl+Indef:er # ;
++N+Fem+Pl+Def:%>erna # ;
 
 ! vim: set ft=xfst-lexc:
 
+! nominal inflexition sid 70
