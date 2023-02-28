@@ -16,5 +16,7 @@ botar:bota v "beta" ;
 båtar:båta v "beta" ;
 brasjar:brasja v "frysa" ;
 brissjar:brissja v "regna" ;
+fakkrar:fakkra v "arbetar" ;
+prejsar:prejas v "betalar" ;
 
 ! vim: set ft=xfst-lexc:
