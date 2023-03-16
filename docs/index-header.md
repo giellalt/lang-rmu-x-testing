@@ -11,7 +11,13 @@ This page will document future work on the **Tavringer Romani language model**.
 
 # Project documentation
 
-* Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.
+- Forthcoming...
+
+
+# Meetings
+
+- 2023: [1.3.](meetings/230301.md)
+
 
 # In-source documentation
 
