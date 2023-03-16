@@ -13,7 +13,7 @@ bessjar:bessja v1 "sitta" ;
 bliddrar:bliddra v1 "bli" ;
 boddrar:boddra v1 "bo" ;
 botar:bota v1 "beta" ;
-båtar:båta v1 "beta" ;
+!båtar:båta v1 "beta" ;
 brasjar:brasja v1 "frysa" ;
 brissjar:brissja v1 "regna" ;
 ! vim: set ft=xfst-lexc:

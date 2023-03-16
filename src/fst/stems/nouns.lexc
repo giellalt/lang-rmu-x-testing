@@ -5,7 +5,7 @@
 LEXICON Nouns
 dejj u "mamma" ; ! dejjen, dejjer, dejjerna
 stanasjare u "cykel" ; ! stanasjaren, (stanasjar, stanasjarna?)
-starrnashare x "bil" ; ! starrnasharen, starrnashar, starrnasharna
+!starrnashare x "bil" ; ! starrnasharen, starrnashar, starrnasharna
 anger u "kål" ; ! twol e:0 <=> Vow Cns:+ e r %> _ n ;
 balo u "gris" ;
 bannika u "pannkaka" ;
@@ -46,10 +46,10 @@ bal n "hår" ;
 ballvass n "fläsk, skinka" ;
 bast n "år" ;
 
-racklepha x ;
-hortepha x "sanning";
+!racklepha x ;
+!hortepha x "sanning";
 kontakti x ;
 pilla x "mössa" ;
 nukko x "barn" ;
 piro x "ben" ;
-varot x "mjöl" ;
+varo x "mjöl" ;
