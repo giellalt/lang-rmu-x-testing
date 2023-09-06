@@ -105,7 +105,7 @@ The giella-core is too old, we require at least $_giella_core_min_version.
 *** ==> PLEASE ENTER THE FOLLOWING COMMANDS: <== ***
 
 cd $GTCORE
-git pull --rebase # or: `svn up` if you are using svn
+git pull --rebase # or: 'svn up' if you are using svn
 make
 
 Then retry.
@@ -454,6 +454,9 @@ AC_MSG_CHECKING([whether we can enable vislcg3 targets])
 AS_IF([test "x$gt_prog_vislcg3" != xno], [AC_MSG_RESULT([yes])],
       [AC_MSG_RESULT([no])])
 AM_CONDITIONAL([CAN_VISLCG], [test "x$gt_prog_vislcg3" != xno])
+PKG_CHECK_MODULES([CG3], [cg3 > 1.4.0], [vislcg_filters=true],
+                  [vislcg_filters=false])
+AM_CONDITIONAL([HAVE_VISLCG_FILTER], [test "x$vislcg_filters" = xtrue])
 ]) # gt_PROG_VISLCG3
 
 ################################################################################
@@ -780,7 +783,7 @@ AC_ARG_ENABLE([phonetic],
               [AS_HELP_STRING([--enable-phonetic],
                               [enable phonetic transducers @<:@default=no@:>@])],
               [enable_phonetic=$enableval],
-              [enable_phonetic=no])
+              [enable_phonetic=$enable_all_tools])
 AM_CONDITIONAL([WANT_PHONETIC], [test "x$enable_phonetic" != xno])
 
 # Enable Apertium transducers - default is 'no'
@@ -1011,14 +1014,20 @@ AS_IF([test "x$fallback_to_foma" != x ],
 
 dnl stick important warnings to bottom
 dnl YAML test warning:
+
 AS_IF([test "x$enable_yamltests" = "xno"],
-      [AC_MSG_WARN([YAML testing could not be automatically enabled. To enable it, on MacOSX please do:
+      [AS_CASE([$host_os], 
+               [*darwin*], [AC_MSG_WARN([YAML testing could not be automatically enabled. 
+To enable it, on MacOSX please do:
 
-sudo port install python38 py38-pip
-sudo pip-3.8 install PyYAML
+    sudo port install python38 py38-pip
+    sudo python3 -m pip install PyYAML
 
-3.8 may be newer in the future.
-On other systems, install python 3 and the corresponding py-yaml using suitable tools for those systems.])])
+replace 38 in python38 with current python])],
+               [*linux*], [AC_MSG_WARN([YAML testing could not be automatically enabled. 
+                To enable it on linux please use your package manager to install python an pyyaml,
+                or install pip and use it to install pyyaml.])],
+               [AC_MSG_WARN([YAML testing requires python3 and py-yaml.])])])
 
 AS_IF([test "x$gt_SHARED_FAILS" != "x"],
       [AC_MSG_WARN([This language depends on $gt_SHARED_FAILS which is missing, some parts of language models may be missing.
