@@ -7,7 +7,7 @@
 
 There are several Romani languages, and it is at the moment not clear how many standardised Romani languages there are in the Nordic countries. [Here is an overview](../lang-rmy/romani-languages.html).
 
-This page documents experimental work on a model for **Tavringer Romani**. It is based on a book by Jasmine Rosengren, *Miro rakkrar romani*, from 2006. Note that the way of writing Tavringer Romani in this book deviates to a certain extent from what can be found on many Swedish official web pages.
+This page documents experimental work on a model for **Tavringer Romani**. It is based on a book by Jasmine Rosengren, [Miro rakkrar romani](https://dokumen.tips/download/link/miro-rakkrar-romani-skolverket-miro-rakkrar-romani-3-miro-rakkrar-romani-jag-talar.html), from 2006. Note that the way of writing Tavringer Romani in this book deviates to a certain extent from what can be found on many Swedish official web pages.
 
 # Project documentation
 
