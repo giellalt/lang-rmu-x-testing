@@ -249,6 +249,8 @@ The genders are:
 The parts of speech are further split up into:
 
 The Usage extents are marked using following tags:
+* **+Use/TTS** – **only** retained in the HFST Text-To-Speech disambiguation tokeniser
+* **+Use/-TTS** – **never** retained in the HFST Text-To-Speech disambiguation tokeniser
 
 The nominals are inflected in the following Case and Number
 
