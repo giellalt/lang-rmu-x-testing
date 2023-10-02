@@ -1,11 +1,11 @@
 The Tavringer Romani morphology and tools
 ==========================================
 
-[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-rmu%2Fgh-pages%2Fmaturity.json)](https://giellalt.github.io/MaturityClassification.html)
-![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-rmu%2Fgh-pages%2Flemmacount.json)
-[![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-rmu)](https://github.com/giellalt/lang-rmu/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-rmu/main/badge.svg)](https://github.com/giellalt/lang-rmu/actions)
-[![License](https://img.shields.io/github/license/giellalt/lang-rmu)](https://github.com/giellalt/lang-rmu/blob/main/LICENSE)
+[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-rmu-x-testing%2Fgh-pages%2Fmaturity.json)](https://giellalt.github.io/MaturityClassification.html)
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-rmu-x-testing%2Fgh-pages%2Flemmacount.json)
+[![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-rmu-x-testing)](https://github.com/giellalt/lang-rmu-x-testing/issues)
+[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-rmu-x-testing/main/badge.svg)](https://github.com/giellalt/lang-rmu-x-testing/actions)
+[![License](https://img.shields.io/github/license/giellalt/lang-rmu-x-testing)](https://github.com/giellalt/lang-rmu-x-testing/blob/main/LICENSE)
 [![Desktop speller download](https://img.shields.io/badge/download%40latest-desktop--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-rmu?platform=desktop&channel=nightly)
 [![Mobile speller download](https://img.shields.io/badge/download%40latest-mobile--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-rmu?platform=mbile&channel=nightly)
 
