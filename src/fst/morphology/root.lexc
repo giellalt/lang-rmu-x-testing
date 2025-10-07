@@ -20,6 +20,25 @@
 
 Multichar_Symbols  !!≈ # Definitions for @CODE@
 
++CmpNP/First
++CmpNP/None
++Err/Lex
++Err/MissingSpace
++MWE
++OLang/ENG
++OLang/FIN
++OLang/NNO
++OLang/NOB
++OLang/RUS
++OLang/SMA
++OLang/SME
++OLang/SMJ
++OLang/SWE
++OLang/UND
++Sem/Org
++v1
++v2
+
 +Com
 +Ess
 +IM
