@@ -4,7 +4,8 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-rmu-x-testing%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-rmu-x-testing)](https://github.com/giellalt/lang-rmu-x-testing/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-rmu-x-testing)](https://github.com/giellalt/lang-rmu-x-testing/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-rmu-x-testing/main/badge.svg)](https://github.com/giellalt/lang-rmu-x-testing/actions)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-rmu-x-testing?label=CI)](https://builds.giellalt.org/pipelines/lang-rmu-x-testing/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/tavr1235)
 
 There are several Romani languages, and it is at the moment not clear how many standardised Romani languages there are in the Nordic countries. [Here is an overview](../lang-rmy/romani-languages.html).
 
