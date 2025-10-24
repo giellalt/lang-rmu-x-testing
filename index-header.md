@@ -2,14 +2,16 @@
 
 <div class="twocolumn map" markdown="1">
 
-[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-rmu-x-testing%2Fgh-pages%2Fmaturity.json)](https://giellalt.github.io/MaturityClassification.html)
-![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-rmu-x-testing%2Fgh-pages%2Flemmacount.json)
-[![License](https://img.shields.io/github/license/giellalt/lang-rmu-x-testing)](https://github.com/giellalt/lang-rmu-x-testing/blob/main/LICENSE)
-[![Issues](https://img.shields.io/github/issues/giellalt/lang-rmu-x-testing)](https://github.com/giellalt/lang-rmu-x-testing/issues)
-[![Build Status](https://builds.giellalt.org/api/badge/lang-rmu-x-testing?label=CI)](https://builds.giellalt.org/pipelines/lang-rmu-x-testing/builds/latest)
-[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/tavr1235)
-
 {% include_relative language-map.md %}
+
+<div class="badges" markdown="1">
+[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-rmu-x-testing%2Fgh-pages%2Fmaturity.json)](https://giellalt.github.io/MaturityClassification.html) <br/>
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-rmu-x-testing%2Fgh-pages%2Flemmacount.json) <br/>
+[![License](https://img.shields.io/github/license/giellalt/lang-rmu-x-testing)](https://github.com/giellalt/lang-rmu-x-testing/blob/main/LICENSE) <br/>
+[![Issues](https://img.shields.io/github/issues/giellalt/lang-rmu)](https://github.com/giellalt/lang-rmu/issues) <br/>
+[![Build Status](https://builds.giellalt.org/api/badge/lang-rmu-x-testing?label=CI)](https://builds.giellalt.org/pipelines/lang-rmu-x-testing/builds/latest) <br/>
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/tavr1235)
+</div>
 
 Center location data taken from [Glottolog](https://glottolog.org/). Area extent is local data. Both can be adjusted if wrong - file a pull request!
 
