@@ -20,7 +20,7 @@
 
 if HAVE_SHARED_SMI
 generated_files/smi-$(GTLANG)-propernouns.lexc: \
-		$(gt_SHARED_smi)/src/fst/stems/smi-propernouns.lexc \
+		$(gt_SHARED_smi)/src/fst/morphology/stems/smi-propernouns.lexc \
 		$(srcdir)/stems/$(GTLANG)-propernouns.lexc \
 		$(top_srcdir)/src/fst/scripts/smi-$(GTLANG)-conversion.pl
 	$(AM_V_at)$(MKDIR_P) generated_files
